@@ -1,0 +1,6 @@
+{
+  "name": "Chrome Browser",
+  "description": "A feature-rich, high-performance web browser styled like Google Chrome, featuring multi-tab support, bookmarks, history, speed dial tiles, and smart Gemini-powered web page summarization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
